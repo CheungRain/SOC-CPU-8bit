@@ -1,0 +1,12 @@
+
+{ 
+    crc :  1586296305913596480  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto 36b375e3a1b145ad909950926ecdf530 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot mc_behav xil_defaultlib.mc" , 
+    buildDate : "Dec  7 2018" , 
+    buildTime : "00:33:28" , 
+    linkCmd : "D:\\xilinx\\Vivado\\2018.3\\data\\..\\tps\\mingw\\6.2.0\\win64.o\\nt\\bin\\gcc.exe -Wa,-W  -O -Wl,--stack,104857600 -o \"xsim.dir/mc_behav/xsimk.exe\"   \"xsim.dir/mc_behav/obj/xsim_0.win64.obj\" \"xsim.dir/mc_behav/obj/xsim_1.win64.obj\" -L\"D:\\xilinx\\Vivado\\2018.3\\lib\\win64.o\" -lrdi_simulator_kernel  -lrdi_simbridge_kernel" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 
